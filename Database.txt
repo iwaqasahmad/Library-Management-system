@@ -1,0 +1,3 @@
+123 chemistry waqas 500 6
+456 physics asdfdsf 800 6
+789 english rashid 800 6
